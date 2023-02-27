@@ -209,6 +209,12 @@ const Slide = (props) => {
           .slide-root-class-name1 {
             background-color: var(--dl-color-backgrounds-green);
           }
+          .slide-root-class-name2 {
+            background-color: var(--dl-color-backgrounds-purple);
+          }
+          .slide-root-class-name3 {
+            background-color: var(--dl-color-backgrounds-green);
+          }
           @media (max-width: 991px) {
             .slide-left-side {
               padding-right: var(--dl-space-space-oneandhalfunits);
